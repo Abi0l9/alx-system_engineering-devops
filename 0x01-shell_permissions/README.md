@@ -1,1 +1,1 @@
-# This is the rot directory of Shell Permission Tutorials
+# This is the root directory of Shell Permission Tutorials
