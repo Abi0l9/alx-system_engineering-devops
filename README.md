@@ -1,1 +1,1 @@
-This is the root directory of Shell-basics project.
+# This is the project folder of shell redirection
