@@ -1,1 +1,1 @@
-# This is the project folder of shell redirection
+# The system engineering course begins, here
